@@ -1,0 +1,79 @@
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe.config
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.pdb
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormDangNhap.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.Properties.Resources.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csproj.GenerateResource.Cache
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.exe
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.pdb
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormChinh.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormDocGia.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormMuonTraSach.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormNhanVien.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormQuanLySach.resources
+F:\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe.config
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.exe
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.pdb
+F:\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe
+F:\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.pdb
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csprojResolveAssemblyReference.cache
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormChinh.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormDangNhap.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormDocGia.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormMuonTraSach.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormNhanVien.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormQuanLySach.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.Properties.Resources.resources
+F:\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csproj.GenerateResource.Cache
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormKhachHang.resources
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csprojResolveAssemblyReference.cache
+C:\Users\ADMINTPHCM\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormMuaSach.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe.config
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.exe
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.pdb
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.pdb
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormChinh.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormDangNhap.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.Properties.Resources.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTKhachHang.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.TimKiemTTKhachHang.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.TimKiemTTXe.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.NhapHoaDon.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.ChiTietNhap.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.XuatHoaDon.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.ChiTietXuat.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTNhanVien.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormQuanLy.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTNCC.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTXe.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.Xemloaixe.resources
+C:\Users\TOSHIBA C40-A\OneDrive\Máy tính\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.TimKiemTTNhanVien.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe.config
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.exe
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.pdb
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.exe
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\bin\Debug\NET_DoAn.pdb
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTKhachHang.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTNCC.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTNhanVien.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.CapNhatTTXe.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.ChiTietNhap.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.ChiTietXuat.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormChinh.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormDangNhap.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.FormQuanLy.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.NhapHoaDon.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.TimKiemTTNhanVien.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.Xemloaixe.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.XuatHoaDon.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.TimKiemTTKhachHang.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.TimKiemTTXe.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.rpHDN.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.rpXuatHD.resources
+C:\Users\Admin\Desktop\NET_DoAn\NET_DoAn\obj\Debug\NET_DoAn.rpXuatPBH.resources
